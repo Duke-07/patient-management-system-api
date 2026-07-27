@@ -110,12 +110,17 @@ BMI is computed as `weight (kg) / height (m)²` and classified as follows:
 
 ## Screenshots
 
-| | |
-|---|---|
-| **Swagger UI** — interactive API documentation | `screenshots/swagger-home.png` |
-| **Get All Patients** — list with filters and pagination | `screenshots/get-all-patients.png` |
-| **Create Patient** — record creation with computed BMI | `screenshots/create-patient.png` |
-| **Statistics** — aggregate analytics on patient data | `screenshots/statistics.png` |
+**Swagger UI** — interactive API documentation
+![Swagger UI](screenshots/swagger-home.png)
+
+**Get All Patients** — list with filters and pagination
+![Get All Patients](screenshots/get-all-patients.png)
+
+**Create Patient** — record creation with computed BMI
+![Create Patient](screenshots/create-patient.png)
+
+**Statistics** — aggregate analytics on patient data
+![Statistics](screenshots/statistics.png)
 
 Additional screenshots for the remaining endpoints are available in the `screenshots/` directory.
 
