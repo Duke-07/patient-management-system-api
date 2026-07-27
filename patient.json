@@ -1,7 +1,7 @@
 {
     "P001": {
-        "name": "John Doe",
-        "city": "New York",
+        "name": "Rahul Sharma",
+        "city": "Delhi",
         "age": 25,
         "gender": "Male",
         "height": 1.75,
@@ -10,8 +10,8 @@
         "verdict": "Normal"
     },
     "P002": {
-        "name": "Jane Smith",
-        "city": "Los Angeles",
+        "name": "Priya Patel",
+        "city": "Mumbai",
         "age": 30,
         "gender": "Female",
         "height": 1.65,
@@ -20,8 +20,8 @@
         "verdict": "Normal"
     },
     "P003": {
-        "name": "Bob Johnson",
-        "city": "Chicago",
+        "name": "Amit Kumar",
+        "city": "Bangalore",
         "age": 45,
         "gender": "Male",
         "height": 1.80,
@@ -30,8 +30,8 @@
         "verdict": "Overweight"
     },
     "P004": {
-        "name": "Alice Brown",
-        "city": "Houston",
+        "name": "Sneha Gupta",
+        "city": "Chennai",
         "age": 28,
         "gender": "Female",
         "height": 1.60,
@@ -40,8 +40,8 @@
         "verdict": "Underweight"
     },
     "P005": {
-        "name": "Charlie Davis",
-        "city": "Phoenix",
+        "name": "Vikram Singh",
+        "city": "Pune",
         "age": 55,
         "gender": "Male",
         "height": 1.70,
